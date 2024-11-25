@@ -1,0 +1,12 @@
+
+1- Cadastrar um novo abastecimento
+
+2- Bloquear Posto
+
+3- Desbloquear Posto
+
+4- Gerar Relatorio
+
+5- Fechar Posto
+
+
